@@ -1,0 +1,7 @@
+[project]
+name = "chat-server"
+version = "1.0.1"
+description = "Asynchronous and concurrent TCP server for chatting"
+readme = "README"
+requires-python = ">=3.12"
+dependencies = []
